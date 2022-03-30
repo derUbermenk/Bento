@@ -3,6 +3,9 @@
 // ┴─┘┴└─┘ ┴ └─┘
 // Functions for printing both lists
 
+// remove list generators because I don't have lists
+
+/*
 const generateFirstListsContainer = () => {
 	for (const list of CONFIG.firstlistsContainer) {
 		let item = `
@@ -82,3 +85,4 @@ const generateLists = () => {
 };
 
 generateLists();
+*/

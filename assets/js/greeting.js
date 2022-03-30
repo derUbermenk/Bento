@@ -3,6 +3,7 @@
 // └─┘┴└─└─┘└─┘ ┴ ┴┘└┘└─┘└─┘
 // Function to set Greetings
 
+/*
 const today = new Date();
 const hour = today.getHours();
 const name = CONFIG.name;
@@ -21,3 +22,4 @@ if (hour >= 23 || hour < 5) {
 } else {
 	document.getElementById('greetings').innerText = gree4 + name;
 }
+*/
