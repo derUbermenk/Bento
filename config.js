@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Chester',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -59,33 +59,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Drive',
+			icon: 'hard-drive',
+			link: 'https://drive.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.google.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Messenger',
+			icon: 'message-square',
+			link: 'https://www.messenger.com/'
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/'
 		},
 	],
 
