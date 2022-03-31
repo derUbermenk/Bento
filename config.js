@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'ParSU LMS',
+			icon: 'graduation-cap',
+			link: 'http://mylms.parsu.edu.ph/parsumoodle/'
 		},
 		{
 			id: '2',
-			name: 'Drive',
-			icon: 'hard-drive',
-			link: 'https://drive.google.com/',
+			name: 'Classroom',
+			icon: 'book-open',
+			link: 'https://classroom.google.com/'
 		},
 		{
 			id: '3',
@@ -72,8 +72,8 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/',
+			icon: 'headphones',
+			link: 'https://open.spotify.com/'
 		},
 		{
 			id: '5',
